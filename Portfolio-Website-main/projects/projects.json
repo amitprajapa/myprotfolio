@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Smart Contact Manager",
+    "desc": "Start Collecting your contacts in very smarter way. We provide very efficient and smarter way of handling contacts.",
+    "image": "SmartContactManager",
+    "category": "mern",
+    "links": {
+      "view": "http://54.189.128.173:8080/signup/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Electricity Billing System",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "electricity_billing_system",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/amitprajapa/electricity_billing_system",
+      "code": "https://github.com/amitprajapa/electricity_billing_system"
+    }
+  },
+  {
+    "name": "Weather app",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "Weather",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/amitprajapa/weather_api/tree/main/weather"
+    }
+  },
+  {
+    "name": "Todo List",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "TodoList",
+    "category": "mern",
+    "links": {
+      "view": "https://todolistapplication23.netlify.app/",
+      "code": "https://github.com/amitprajapa/To-Do-Tist-App/tree/main/to_Do_ListApp"
+    }
+  }
+  
+]
